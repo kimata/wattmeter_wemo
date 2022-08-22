@@ -1,9 +1,9 @@
 - name: aqua_light
-  label: 水槽: ライト
+  label: '水槽: ライト'
 
 - name: aqua_air
-  label: 水槽: エアレーション
+  label: '水槽: エアレーション'
 
 - name: aqua_heater
-  label: 水槽: 温度管理
+  label: '水槽: 温度管理'
 
